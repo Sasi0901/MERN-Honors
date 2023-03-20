@@ -1,0 +1,21 @@
+If you consider frontend as independent layer which would work without backend 
+so we can create frontend application which can hit an api which returns a fake 
+response and that make sures that our application is able to make request and get the responses back 
+and once you have the respnse you able to pass it visualise it and do n number of different activities 
+that you want to do with any web application
+
+
+============================================Course Framework============================================
+
+First create an application using reactJs which will make basically API call make all file systems call and
+all other thins to get he response back and perform the activities on its own as an individual web application
+
+We extend same crud application to invoke backend call, here invoking backend call means that we will create express 
+api and points and deploy on node and make our react application to call those APIs.
+
+at this point we are not going to call the databse but again we are going to fake the responses back to frontend from the middleware
+
+Once we are done with middleware development or basically learning node and express next we will learn how to create to create mongoDB create the cluster create the schemas
+and we are going to extend the application to express api to call the database
+
+
